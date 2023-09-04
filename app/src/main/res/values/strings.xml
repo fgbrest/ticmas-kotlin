@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Comparapp</string>
+    <string name="app_logo">Logo Comparapp</string>
+    <string name="str1_placeholder">Ingrese una cadena de caracteres</string>
+    <string name="str2_placeholder">Ingrese otra cadena de caracteres</string>
+    <string name="btn_txt">Comparar</string>
+    <string name="result_ok">Las cadenas de caracteres son iguales</string>
+    <string name="result_fail">Las cadenas de caracteres no son iguales</string>
+</resources>
